@@ -13,3 +13,9 @@ git ssh
 3. Enter a file in which to save the key (/c/Users/you/.ssh/id_rsa):[Press enter]
 4. Enter passphrase (empty for no passphrase): [Type a passphrase]
 Enter same passphrase again: [Type passphrase again]
+
+# Heroku commands
+
+heroku --version
+heroku login to connect the heroku account
+heroku create - new heroku app
